@@ -1,0 +1,33 @@
+{
+  "author": "BrainBust",
+  "name": "node-cloudns",
+  "description": "Nodejs Library for https://www.cloudns.net/api-help/",
+  "tags": [
+    "cloudns",
+    "library",
+	"dns",
+    "util",
+    "utility"
+  ],
+  "version": "0.2.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BrainBust/node-cloudns.git",
+    "web": "https://github.com/BrainBust/node-cloudns"
+  },
+  "bugs": {
+    "url": "https://github.com/BrainBust/node-cloudns/issues/"
+  },
+  "dependencies": {
+	"querystring": "~0.2.0",
+	"underscore": "~1.7.0",
+	"request": "~2.50.0"
+  
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
