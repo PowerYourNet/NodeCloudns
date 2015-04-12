@@ -12,11 +12,11 @@
   "version": "0.2.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/BrainBust/node-cloudns.git",
-    "web": "https://github.com/BrainBust/node-cloudns"
+    "url": "git://github.com/PowerYourNet/NodeCloudns.git",
+    "web": "https://github.com/PowerYourNet/NodeCloudns"
   },
   "bugs": {
-    "url": "https://github.com/BrainBust/node-cloudns/issues/"
+    "url": "https://github.com/PowerYourNet/NodeCloudns/issues/"
   },
   "dependencies": {
 	"querystring": "~0.2.0",
